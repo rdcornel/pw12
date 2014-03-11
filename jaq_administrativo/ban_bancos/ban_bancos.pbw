@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "ban_bancos.pbt";
+@end;
+DefaultTarget "ban_bancos.pbt";
+DefaultRemoteTarget "ban_bancos.pbt";
